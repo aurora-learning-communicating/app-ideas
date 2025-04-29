@@ -100,10 +100,11 @@
 
 ## 4. (可以到这个章节上贡献) 这个仓库中的内容
 
-| 想法名称 | 作者 | 阶段 |
+| 想法名称 | 作者 | 阶段 | 仓库地址|
 |:--: | :--: | :--: |
-| [需要考虑并发的场景探讨](./concurrency.md)| @kurt-steiner | 需要确认项目细节 |
-| [简单的web全栈项目](./web-fullstack.md) | @kurt-steiner | 需要确认项目细节 |
-| [markdown 语法解析器](./markdown-parser.md) | @kurt-steiner | 在我本地上开发，还未完成代码和文档 |
-| [org-mode 语法解析器](./org-mode-parser.md) | @kurt-steiner | 还未开始，等待 markdown 解析器开发完成|
-| [用 Kotlin DSL 描述一个 Makefile 文件](./makefile-dsl.md) | @kurt-steiner | 还未开始 |
+| [需要考虑并发的场景探讨](./concurrency.md)| @kurt-steiner | 需要确认项目细节 | null |
+| [简单的web全栈项目](./web-fullstack.md) | @kurt-steiner | 需要确认项目细节 | null |
+| [markdown 语法解析器](./markdown-parser.md) | @kurt-steiner | 在我本地上开发，还未完成代码和文档 | null |
+| [org-mode 语法解析器](./org-mode-parser.md) | @kurt-steiner | 还未开始，等待 markdown 解析器开发完成| null|
+| [用 Kotlin DSL 描述一个 Makefile 文件](./makefile-dsl.md) | @kurt-steiner | 还未开始 | null |
+| [做一个 ORM 框架 using Java](./orm.md) | @kurt-steiner |  still working | [check this](https://github.com/aurora-learning-communicating/make-a-orm) |
